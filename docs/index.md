@@ -4,13 +4,26 @@ hide:
 ---
 # FP: Apunts de Formació Professional
 ## Mòduls professionals
+
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-brain:{ .lg .middle } __IABD-SAA: Sistemes d'Aprenentatge Automàtic__
+-   :construction:{ title="En construcció!" } :fontawesome-solid-brain:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__
+
+    Intel·ligència Artificial i Big Data
 
     ---
 
     [:octicons-arrow-right-24: Apunts](../iabd-saa/)
+
+-   :construction:{ title="En construcció!" } :fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__ 
+
+    Desenvolupament d'Aplicacions Multiplataforma
+
+    Desenvolupament d'Aplicacions Web
+
+    ---
+
+    [:octicons-arrow-right-24: Apunts](../daw-ed/)
 
 </div>
 
