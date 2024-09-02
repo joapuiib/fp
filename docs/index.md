@@ -7,13 +7,16 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :construction:{ title="En construcció!" } :fontawesome-solid-brain:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__
+-   :construction:{ title="En construcció!" } :fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__ 
 
-    Intel·ligència Artificial i Big Data
+    Desenvolupament d'Aplicacions Multiplataforma
+
+    Desenvolupament d'Aplicacions Web
 
     ---
 
-    [:octicons-arrow-right-24: Apunts](../iabd-saa/)
+    [:octicons-arrow-right-24: Apunts](../bd/)
+
 
 -   :construction:{ title="En construcció!" } :fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__ 
 
@@ -24,6 +27,15 @@ hide:
     ---
 
     [:octicons-arrow-right-24: Apunts](../daw-ed/)
+
+
+-   :construction:{ title="En construcció!" } :fontawesome-solid-brain:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__
+
+    Intel·ligència Artificial i Big Data
+
+    ---
+
+    [:octicons-arrow-right-24: Apunts](../iabd-saa/)
 
 </div>
 
