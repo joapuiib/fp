@@ -28,3 +28,32 @@
     background-color: #ffd914;
     color: #111111;
 }
+
+.red {
+    color: #d85b5b;
+}
+.blue {
+    color: #4976c7;
+}
+.lightblue {
+    color: #6cb2eb;
+}
+.green {
+    color: #639b4c;
+}
+.orange {
+    color: #f9a61a;
+}
+.yellow {
+    color: #f9d616;
+}
+.purple {
+    color: #8e7cc3;
+}
+.white {
+    color: white;
+}
+.gray {
+    color: gray;
+}
+
