@@ -3,18 +3,25 @@ Repositori que agrupa els repositoris amb els apunts dels diferents mòduls de F
 
 La pàgina web es pot consultar a [https://joapuiib.github.io/fp/](https://joapuiib.github.io/fp/).
 
-## Apunts disponibles
+## Mòduls de Formació Professional
 
-### IABD
-Curs d'especialització en __Intel·ligència Artificial i Big Data__.
+### Grau Mitjà
+- __[SI: Seguretat Informàtica](https://github.com/joapuiib/smx-si)__
+    - Sistemes Microinformàtics i Xarxes (SMX)
+
+### Grau Superior
+- __[BD: Bases de dades](https://github.com/joapuiib/bd)__
+    - Administració de Sistemes Informàtics en Xarxa (ASIX)
+    - Desenvolupament d'Aplicacions Multiplataforma (DAM)
+    - Desenvolupament d'Aplicacions Web (DAW)
+- __[ED: Entorns de Desenvolupament](https://github.com/joapuiib/daw-ed)__
+    - Desenvolupament d'Aplicacions Multiplataforma (DAM)
+    - Desenvolupament d'Aplicacions Web (DAW)
+
+### Cursos d'especialització
 
 - __[SAA: Sistemes d'Aprenentatge Automàtic](https://github.com/joapuiib/iabd-saa)__
-
-### DAM i DAW
-Cicles Formatius de Grau Superior de __Desenvolupament d'Aplicacions Multiplataforma__ i __Desenvolupament d'Aplicacions Web__.
-
-- __[ED: Entorns de Desenvolupament](https://github.com/joapuiib/daw-ed)__
-- __[BD: Bases de dades](https://github.com/joapuiib/bd)__
+    - Intel·ligència Artificial i Big Data (IABD)
 
 ## Curs de Formació del Professorat
 - __[Introducció a Git i la seua aplicació a l’aula](https://joapuiib.github.io/curs-git/)__
