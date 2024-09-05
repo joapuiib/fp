@@ -46,6 +46,15 @@ hide:
 
     [:octicons-arrow-right-24: Apunts](../daw-ed/)
 
+
+-   :construction:{ title="En construcció!" } :fontawesome-solid-spider:{ .lg .middle } __PSP: Programació de Serveis i Processos__
+
+    Desenvolupament d'Aplicacions Multiplataforma (DAM)
+
+    ---
+
+    [:octicons-arrow-right-24: Apunts](../dam-psp/)
+
 </div>
 
 ### Cursos d'Especialització
