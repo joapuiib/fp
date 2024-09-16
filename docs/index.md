@@ -11,7 +11,7 @@ hide:
 
 -   :construction:{ title="En construcció!" } :fontawesome-solid-shield-halved:{ .lg .middle } __SI: Seguretat informàtica__ 
 
-    Sistemes Microinformàtics i Xarxes (SMX)
+    :material-server: Sistemes Microinformàtics i Xarxes (SMX)
 
     ---
 
@@ -25,11 +25,11 @@ hide:
 
 -   :construction:{ title="En construcció!" } :fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__ 
 
-    Administració de Sistemes Informàtics en Xarxa (ASIX)
+    :material-server-network: Administració de Sistemes Informàtics en Xarxa (ASIX)
 
-    Desenvolupament d'Aplicacions Multiplataforma (DAM)
+    :fontawesome-solid-mobile-screen-button: Desenvolupament d'Aplicacions Multiplataforma (DAM)
 
-    Desenvolupament d'Aplicacions Web (DAW)
+    :material-web: Desenvolupament d'Aplicacions Web (DAW)
 
     ---
 
@@ -38,9 +38,9 @@ hide:
 
 -   :construction:{ title="En construcció!" } :fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__ 
 
-    Desenvolupament d'Aplicacions Multiplataforma (DAM)
+    :fontawesome-solid-mobile-screen-button: Desenvolupament d'Aplicacions Multiplataforma (DAM)
 
-    Desenvolupament d'Aplicacions Web (DAW)
+    :material-web: Desenvolupament d'Aplicacions Web (DAW)
 
     ---
 
@@ -49,7 +49,7 @@ hide:
 
 -   :construction:{ title="En construcció!" } :fontawesome-solid-spider:{ .lg .middle } __PSP: Programació de Serveis i Processos__
 
-    Desenvolupament d'Aplicacions Multiplataforma (DAM)
+    :fontawesome-solid-mobile-screen-button: Desenvolupament d'Aplicacions Multiplataforma (DAM)
 
     ---
 
@@ -61,9 +61,9 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :construction:{ title="En construcció!" } :fontawesome-solid-brain:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__
+-   :construction:{ title="En construcció!" } :material-robot-happy:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__
 
-    Intel·ligència Artificial i Big Data (IABD)
+    :fontawesome-solid-brain: Intel·ligència Artificial i Big Data (IABD)
 
     ---
 
