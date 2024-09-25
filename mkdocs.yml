@@ -15,6 +15,9 @@ extra:
       link: https://www.linkedin.com/in/joanpuigcerver/
       name: Joan Puigcerver a LinkedIn
 
+extra_css:
+  - assets/stylesheets/cards.css
+
 theme:
   name: material-joapuiib
   icon:

@@ -1,0 +1,49 @@
+.md-typeset .grid>.card p {
+  margin: .5em 0;
+}
+
+.md-typeset .grid>.card a {
+  color: unset;
+}
+
+.md-typeset .grid.cards>ol>li.yellow,
+.md-typeset .grid.cards>ul>li.yellow,
+.md-typeset .grid>.card.yellow {
+  background-color: #ffec3dcc;
+  color: #000;
+}
+
+.md-typeset .grid.cards>ol>li.green,
+.md-typeset .grid.cards>ul>li.green,
+.md-typeset .grid>.card.green {
+  background-color: #8bc34bcc;
+  color: #000;
+}
+
+.md-typeset .grid.cards>ol>li.cyan,
+.md-typeset .grid.cards>ul>li.cyan,
+.md-typeset .grid>.card.cyan {
+  background-color: #00bdd6cc;
+  color: #fff;
+}
+
+.md-typeset .grid.cards>ol>li.brown,
+.md-typeset .grid.cards>ul>li.brown,
+.md-typeset .grid>.card.brown {
+  background-color: #795649cc;
+  color: #fff;
+}
+
+.md-typeset .grid.cards>ol>li.deep-purple,
+.md-typeset .grid.cards>ul>li.deep-purple,
+.md-typeset .grid>.card.deep-purple {
+  background-color: #7e56c2cc;
+  color: #fff;
+}
+
+.md-typeset .grid.cards>ol>li.deep-orange,
+.md-typeset .grid.cards>ul>li.deep-orange,
+.md-typeset .grid>.card.deep-orange {
+  background-color: #ff6e42cc;
+  color: #fff;
+}
