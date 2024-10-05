@@ -1,5 +1,5 @@
-.md-typeset .md-code__content {
-  border-radius: 3mm;
+[data-md-color-primary=brown] {
+    --md-typeset-a-color: #c1775c;
 }
 
 .md-typeset figcaption {
@@ -63,4 +63,24 @@ p:has(img.center) {
 
 .center {
     text-align: center;
+}
+
+.opacity-25 {
+    opacity: 0.25 !important;
+}
+.opacity-50 {
+    opacity: 0.5 !important;
+}
+.opacity-75 {
+    opacity: 0.75 !important;
+}
+.opacity-100 {
+    opacity: 1 !important;
+}
+
+.fancylists-lower-alpha > li::marker {
+    content: counter(list-item, lower-alpha) ") ";
+}
+.fancylists-upper-alpha > li::marker {
+    content: counter(list-item, upper-alpha) ") ";
 }
