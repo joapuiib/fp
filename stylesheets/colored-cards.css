@@ -1,0 +1,61 @@
+.md-typeset .grid > .card {
+  border-radius: 8px;
+}
+
+.md-typeset .grid > .card a {
+  color: #fff;
+}
+.md-typeset .grid > .card a:hover {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset .grid > .yellow-card {
+  color: #000000de;
+  background-color: #ffec3dee;
+}
+.md-typeset .grid > .yellow-card hr {
+  border-color: #00000012;
+}
+.md-typeset .grid > .yellow-card a {
+  color: #000000de;
+}
+
+.md-typeset .grid > .green-card {
+  color: #fff;
+  background-color: #8bc34bee;
+}
+.md-typeset .grid > .green-card hr {
+  border-color: #00000012;
+}
+
+.md-typeset .grid > .cyan-card {
+  color: #fff;
+  background-color: #25c5daee;
+}
+.md-typeset .grid > .cyan-card hr {
+  border-color: #00000012;
+}
+
+.md-typeset .grid > .brown-card {
+  color: #fff;
+  background-color: #795649ee;
+}
+.md-typeset .grid > .brown-card hr {
+  border-color: #00000012;
+}
+
+.md-typeset .grid > .purple-card {
+  color: #fff;
+  background-color: #7e56c2ee;
+}
+.md-typeset .grid > .purple-card hr {
+  border-color: #00000012;
+}
+
+.md-typeset .grid > .deeporange-card {
+  color: #fff;
+  background-color: #ff6e42ee;
+}
+.md-typeset .grid > .deeporange-card hr {
+  border-color: #00000012;
+}

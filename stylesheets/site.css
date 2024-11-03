@@ -1,16 +1,68 @@
+[data-md-color-scheme=slate] {
+    --md-shadow-z1: 0 0.4rem 0.5rem #0001, 0 0 0.05rem #0004;
+    --md-shadow-z2: 0 0.4rem 0.5rem #0004, 0 0 0.05rem #0006;
+    --md-shadow-z3: 0 0.4rem 0.5rem #0008, 0 0 0.05rem #000a;
+}
 [data-md-color-primary=brown] {
     --md-typeset-a-color: #c1775c;
+}
+
+.md-main__inner {
+    max-width: 84rem;
+    padding: 0 1.5rem;
+}
+
+.md-nav__title svg {
+    fill: currentcolor;
+    flex-shrink: 0;
+    height: 1.3em;
+    position: relative;
+}
+
+.md-typeset figure > *,
+.md-typeset figcaption > * {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.md-typeset figure {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
 }
 
 .md-typeset figcaption {
   color: var(--md-default-fg-color--light);
 }
 
+.md-typeset figure.shadow > p img,
+.md-typeset figure.shadow > p svg {
+    border-radius: 0.2rem;
+    box-shadow: var(--md-shadow-z2);
+}
+
+.md-typeset figure.no-shadow > p > img,
+.md-typeset figure.no-shadow > p > svg {
+    border-radius: revert-layer;
+    box-shadow: revert-layer;
+}
+
+.md-typeset figure.attribution {
+    gap: 0;
+}
+
+.md-typeset figure.attribution figcaption,
 .md-typeset figcaption.attribution {
   text-align: left;
   font-size: 0.75em;
   margin: unset;
   max-width: unset;
+}
+
+.mxgraph {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: calc(26px + 1rem) !important;
 }
 
 .md-banner .twemoji {
@@ -28,8 +80,20 @@
     background-color: #ffd914;
     color: #111111;
 }
+.md-banner .under-construction .twemoji {
+    border-radius: unset;
+    box-shadow: unset;
+}
+
+.center {
+    text-align: center;
+}
 
 p:has(img.center) {
+    text-align: center;
+}
+
+.mermaid {
     text-align: center;
 }
 
@@ -61,10 +125,6 @@ p:has(img.center) {
     color: gray;
 }
 
-.center {
-    text-align: center;
-}
-
 .opacity-25 {
     opacity: 0.25 !important;
 }
@@ -83,4 +143,51 @@ p:has(img.center) {
 }
 .fancylists-upper-alpha > li::marker {
     content: counter(list-item, upper-alpha) ") ";
+}
+
+.md-encryption__input--password {
+    font-size: 1rem;
+    padding: 12px 40px 12px 15px;
+    border: 2px solid #d1d5db;
+    border-radius: 25px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease;
+    background-color: #fff;
+}
+
+#mkdocs-decrypt-msg:not(:empty) {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
+@page {
+    size: A4;
+    margin: 10mm;
+}
+
+@media print {
+    .md-main__inner, .md-content__inner {
+      margin: unset;
+    }
+
+    .cover {
+      /* Substract 1.5rem (if not, license image goes to different page) */
+      height: calc(100vh - 1.5rem);
+    }
+
+    .break-page {
+        -webkit-column-break-before: avoid;
+        page-break-before: always;
+        break-before: always;
+    }
+    
+    .md-source-file {
+        display: none;
+    }
 }
