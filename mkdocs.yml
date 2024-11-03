@@ -1,6 +1,7 @@
-site_name: "FP: Apunts de Formació Professional"
+site_name: "FP – Apunts de Formació Professional"
 site_author: "Joan Puigcerver Ibáñez"
 site_email: "j.puigcerveribanez@edu.gva.es"
+site_url: https://joapuiib.github.io/fp/
 dev_addr: 127.0.0.1:4567
 
 repo_name: joapuiib/fp
@@ -19,6 +20,9 @@ theme:
   name: material-joapuiib
   icon:
     logo: octicons/book-16
+
+extra_css:
+  - stylesheets/colored-cards.css
 
 plugins:
   - material/search
@@ -43,7 +47,15 @@ plugins:
             quote: Cita
             docs: Documentació
             solution: Solució
+            important: Important
+            notice: Fixa't
+            prep: Preparació
+            recommend: Recomanació
   - git-revision-date-localized
+  - git-committers:
+      enabled: !ENV [CI, false]
+      repository: joapuiib/fp
+      branch: main
 
 markdown_extensions:
   - abbr
@@ -52,6 +64,7 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  - pymdownx.blocks.html
   - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true

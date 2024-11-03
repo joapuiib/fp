@@ -1,83 +1,106 @@
-title: Inici
+title: FP – Apunts de Formació Professional
 hide:
     - navigation
+    - toc
 ---
-# FP: Apunts de Formació Professional
-## Mòduls professionals
+*[SMX]: Sistemes Microinformàtics i Xarxes
+*[ASIX]: Administració de Sistemes Informàtics en Xarxa
+*[DAM]: Desenvolupament d'Aplicacions Multiplataforma
+*[DAW]: Desenvolupament d'Aplicacions Web
+*[IABD]: Intel·ligència Artificial i Big Data
 
-### Grau Mitjà
-
-<div class="grid cards" markdown>
-
--   :construction:{ title="En construcció!" } :fontawesome-solid-shield-halved:{ .lg .middle } __SI: Seguretat informàtica__ 
-
-    :material-server: Sistemes Microinformàtics i Xarxes (SMX)
-
-    ---
-
-    [:octicons-arrow-right-24: Apunts](../smx-si/)
-
-</div>
-
-### Grau Superior
-
-<div class="grid cards" markdown>
-
--   :construction:{ title="En construcció!" } :fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__ 
-
-    :material-server-network: Administració de Sistemes Informàtics en Xarxa (ASIX)
-
-    :fontawesome-solid-mobile-screen-button: Desenvolupament d'Aplicacions Multiplataforma (DAM)
-
-    :material-web: Desenvolupament d'Aplicacions Web (DAW)
-
-    ---
-
-    [:octicons-arrow-right-24: Apunts](../bd/)
+# FP – Apunts de Formació Professional
+## Cicles Formatius
 
 
--   :construction:{ title="En construcció!" } :fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__ 
+### :material-server: Sistemes Microinformàtics i Xarxes
 
-    :fontawesome-solid-mobile-screen-button: Desenvolupament d'Aplicacions Multiplataforma (DAM)
+/// html | div.grid.cards
+//// html | div.card.yellow-card
+:fontawesome-solid-shield-halved:{ .lg .middle } __SI: Seguretat informàtica__ :construction:{ title="En construcció!" }
 
-    :material-web: Desenvolupament d'Aplicacions Web (DAW)
+---
 
-    ---
+[:octicons-arrow-right-24: Apunts](../smx-si/)
+////
+///
 
-    [:octicons-arrow-right-24: Apunts](../daw-ed/)
+
+### :fontawesome-solid-mobile-screen-button: Desenvolupament d'Aplicacions Multiplataforma
+
+/// html | div.grid.cards
+
+//// html | div.card.green-card
+:fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__ :construction:{ title="En construcció!" }
+
+---
+
+[:octicons-arrow-right-24: Apunts](../bd/)
+////
+
+//// html | div.card.cyan-card
+:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__ :construction:{ title="En construcció!" }
+
+---
+
+[:octicons-arrow-right-24: Apunts](../daw-ed/)
+////
+
+//// html | div.card.brown-card
+:fontawesome-solid-spider:{ .lg .middle } __PSP: Programació de Serveis i Processos__ :construction:{ title="En construcció!" }
+
+---
+
+[:octicons-arrow-right-24: Apunts](../dam-psp/)
+////
+
+///
 
 
--   :construction:{ title="En construcció!" } :fontawesome-solid-spider:{ .lg .middle } __PSP: Programació de Serveis i Processos__
+### :material-web: Desenvolupament d'Aplicacions Web
 
-    :fontawesome-solid-mobile-screen-button: Desenvolupament d'Aplicacions Multiplataforma (DAM)
+/// html | div.grid.cards
 
-    ---
+//// html | div.card.green-card
+:fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__ :construction:{ title="En construcció!" }
 
-    [:octicons-arrow-right-24: Apunts](../dam-psp/)
+---
 
-</div>
+[:octicons-arrow-right-24: Apunts](../bd/)
+////
 
-### Cursos d'Especialització
+//// html | div.card.cyan-card
+:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__ :construction:{ title="En construcció!" }
 
-<div class="grid cards" markdown>
+---
 
--   :construction:{ title="En construcció!" } :material-robot-happy:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__
+[:octicons-arrow-right-24: Apunts](../daw-ed/)
+////
 
-    :fontawesome-solid-brain: Intel·ligència Artificial i Big Data (IABD)
+///
 
-    ---
 
-    [:octicons-arrow-right-24: Apunts](../iabd-saa/)
+### :fontawesome-solid-brain: Intel·ligència Artificial i Big Data
 
-</div>
+/// html | div.grid.cards
+//// html | div.card.purple-card
+:material-robot-happy:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__ :construction:{ title="En construcció!" }
+
+---
+
+[:octicons-arrow-right-24: Apunts](../iabd-saa/)
+////
+///
+
 
 ## Cursos de Formació del Professorat
-<div class="grid cards" markdown>
 
--   :simple-git:{ .lg .middle } __Introducció a Git i la seua aplicació a l’aula__
+/// html | div.grid.cards
+//// html | div.card.deeporange-card
+:simple-git:{ .lg .middle } __Introducció a Git i la seua aplicació a l’aula__  :material-alert-decagram:{ title="Novetat!" }
 
-    ---
+---
 
-    [:octicons-arrow-right-24: Curs](../curs-git/)
-
-</div>
+[:octicons-arrow-right-24: Materials](../curs-git/)
+////
+///
