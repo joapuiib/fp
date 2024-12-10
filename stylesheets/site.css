@@ -9,7 +9,6 @@
 
 .md-main__inner {
     max-width: 84rem;
-    padding: 0 1.5rem;
 }
 
 .md-nav__title svg {
@@ -166,6 +165,21 @@ p:has(img.center) {
     border-radius: .25rem;
 }
 
+.md-typeset .md-textarea {
+    border: .1rem solid var(--md-default-fg-color--lighter);
+    box-shadow: var(--md-shadow-z1);
+    font-size: .8rem;
+    height: 1.8rem;
+    padding: 0 .6rem;
+    transition: border .25s, box-shadow .25s;
+    width: 100%;
+}
+.md-typeset .md-textarea:focus,
+.md-typeset .md-textarea:hover {
+    border-color: var(--md-accent-fg-color);
+    box-shadow: var(--md-shadow-z2);
+}
+
 @page {
     size: A4;
     margin: 10mm;
@@ -190,4 +204,15 @@ p:has(img.center) {
     .md-source-file {
         display: none;
     }
+}
+
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1rem;
+}
+.columns > figure {
+    margin: revert-layer;
 }
