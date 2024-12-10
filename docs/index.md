@@ -47,7 +47,7 @@ hide:
 ////
 
 //// html | div.card.brown-card
-:fontawesome-solid-spider:{ .lg .middle } __PSP: Programació de Serveis i Processos__ :construction:{ title="En construcció!" }
+:material-shuffle-variant:{ .lg .middle } __PSP: Programació de Serveis i Processos__
 
 ---
 
