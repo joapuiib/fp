@@ -77,6 +77,14 @@ hide:
 [:octicons-arrow-right-24: Apunts](../daw-ed/)
 ////
 
+//// html | div.card.teal-card
+:fontawesome-solid-people-group:{ .lg .middle } __Projecte interdisciplinar__ :construction:{ title="En construcció!" }
+
+---
+
+[:octicons-arrow-right-24: Enunciat](https://fpmislata-daw1-projecte.github.io/projecte-daw1/)
+////
+
 ///
 
 
