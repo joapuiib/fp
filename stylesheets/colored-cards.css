@@ -28,6 +28,13 @@
   border-color: #00000012;
 }
 
+.md-typeset .grid > .teal-card {
+  color: #fff;
+  background-color: #009485;
+}
+.md-typeset .grid > .teal-card hr {
+  border-color: #00000012;
+}
 .md-typeset .grid > .cyan-card {
   color: #fff;
   background-color: #25c5daee;
