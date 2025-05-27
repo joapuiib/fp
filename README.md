@@ -6,23 +6,22 @@ La pàgina web es pot consultar a [https://joapuiib.github.io/fp/](https://joapu
 ## Mòduls de Formació Professional
 
 ### Grau Mitjà
-- __[SI: Seguretat Informàtica](https://github.com/joapuiib/smx-si)__
+- __[SI: Seguretat Informàtica](https://joapuiib.github.io/smx-si/)__
     - Sistemes Microinformàtics i Xarxes (SMX)
 
 ### Grau Superior
-- __[BD: Bases de dades](https://github.com/joapuiib/bd)__
+- __[BD: Bases de dades](https://joapuiib.github.io/bd/)__
     - Administració de Sistemes Informàtics en Xarxa (ASIX)
     - Desenvolupament d'Aplicacions Multiplataforma (DAM)
     - Desenvolupament d'Aplicacions Web (DAW)
-- __[ED: Entorns de Desenvolupament](https://github.com/joapuiib/daw-ed)__
+- __[ED: Entorns de Desenvolupament](https://joapuiib.github.io/daw-ed/)__
     - Desenvolupament d'Aplicacions Multiplataforma (DAM)
     - Desenvolupament d'Aplicacions Web (DAW)
-- __[PSP: Programació de Serveis i Processos](https://github.com/joapuiib/dam-psp)__
+- __[PSP: Programació de Serveis i Processos](https://joapuiib.github.io/dam-psp/)__
     - Desenvolupament d'Aplicacions Multiplataforma (DAM)
 
 ### Cursos d'especialització
-
-- __[SAA: Sistemes d'Aprenentatge Automàtic](https://github.com/joapuiib/iabd-saa)__
+- __[SAA: Sistemes d'Aprenentatge Automàtic](https://joapuiib.github.io/iabd-saa/)__
     - Intel·ligència Artificial i Big Data (IABD)
 
 ## Curs de Formació del Professorat
