@@ -17,7 +17,7 @@ hide:
 
 /// html | div.grid.cards
 //// html | div.card.yellow-card
-:fontawesome-solid-shield-halved:{ .lg .middle } __SI: Seguretat informàtica__ :construction:{ title="En construcció!" }
+:fontawesome-solid-shield-halved:{ .lg .middle } __SI: Seguretat informàtica__
 
 ---
 
@@ -39,7 +39,7 @@ hide:
 ////
 
 //// html | div.card.cyan-card
-:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__ :construction:{ title="En construcció!" }
+:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__
 
 ---
 
