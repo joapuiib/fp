@@ -1,114 +1,168 @@
+---
+template: document.html
 title: FP – Apunts de Formació Professional
+cover:
+    title: FP – Apunts de Formació Professional
+    logo: false
 hide:
     - navigation
     - toc
 ---
+*[CFGM]: Cicle Formatiu de Grau Mitjà
+*[CFGS]: Cicle Formatiu de Grau Superior
+*[CE]: Curs d'Especialització
+
+
 *[SMX]: Sistemes Microinformàtics i Xarxes
 *[ASIX]: Administració de Sistemes Informàtics en Xarxa
 *[DAM]: Desenvolupament d'Aplicacions Multiplataforma
 *[DAW]: Desenvolupament d'Aplicacions Web
 *[IABD]: Intel·ligència Artificial i Big Data
 
-# FP – Apunts de Formació Professional
-## Cicles Formatius
+Benvinguts! En aquest lloc web trobareu els apunts i recursos de Formació Professional
+que he anat elaborant a mesura que he anat impartint els diferents mòduls professionals.
 
+/// html | section.course-section
+## :material-server:{ .lg .middle } SMX – Sistemes Microinformàtics i Xarxes <span class="tag gm">CFGM</span>
 
-### :material-server: Sistemes Microinformàtics i Xarxes
+//// html | div.subject-grid
+///// html | div.subject-card.border-yellow
+[:fontawesome-solid-shield-halved:{ .lg .middle } __SI: Seguretat informàtica__](../smx-si/)
 
-/// html | div.grid.cards
-//// html | div.card.yellow-card
-:fontawesome-solid-shield-halved:{ .lg .middle } __SI: Seguretat informàtica__
-
----
-
-[:octicons-arrow-right-24: Apunts](../smx-si/)
+- :material-office-building: Seguretat Física
+- :material-server-network: Seguretat Lògica
+- :material-wall: iptables
+- :material-lock: Encriptació
+- :octicons-id-badge-16: Certificats digitals
+/////
 ////
 ///
 
 
-### :fontawesome-solid-mobile-screen-button: Desenvolupament d'Aplicacions Multiplataforma
+/// html | section.course-section
+## :material-server-network:{ .lg .middle } ASIX – Administració de Sistemes Informàtics en Xarxa <span class="tag gm">CFGS</span>
 
-/// html | div.grid.cards
+//// html | div.subject-grid
+///// html | div.subject-card.border-light-green
+[:fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
 
-//// html | div.card.green-card
-:fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__ :construction:{ title="En construcció!" }
+- :simple-mariadb: MariaDB
+- :simple-mongodb: MongoDB
+- :octicons-table-16: Model Entitat-Relació
+/////
+///// html | div.subject-card.border-green
+[:material-database-cog:{ .lg .middle } __ASGBD: Administració de Sistemes Gestors de Bases de Dades__](../asix-asgbd/)
 
----
+- :simple-mariadb: MariaDB
+- :fontawesome-solid-user-shield: Gestió d'usuaris
+/////
+///// html | div.subject-card.border-blue
+[:material-script-text:{ .lg .middle } __IP: Introducció a la Programació__](../asix-asgbd/)
 
-[:octicons-arrow-right-24: Apunts](../bd/)
+- :simple-python: Python
+- :material-bash: Bash
+/////
+///// html | div.subject-card.border-teal
+[:fontawesome-solid-people-group:{ .lg .middle } __PI: Projecte Intermodular__](https://fpmislata-daw1-projecte.github.io/projecte-daw1/)
+
+- :octicons-iterations-16: Scrum
+- :simple-github: GitHub
+/////
 ////
+///
 
-//// html | div.card.cyan-card
-:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__
 
----
+/// html | section.course-section
+## :fontawesome-solid-mobile-screen-button:{ .lg .middle } DAM – Desenvolupament d'Aplicacions Multiplataforma <span class="tag gm">CFGS</span>
 
-[:octicons-arrow-right-24: Apunts](../daw-ed/)
-////
+//// html | div.subject-grid
+///// html | div.subject-card.border-light-green
+[:fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
 
-//// html | div.card.brown-card
-:material-shuffle-variant:{ .lg .middle } __PSP: Programació de Serveis i Processos__
+- :simple-mariadb: MariaDB
+- :simple-mongodb: MongoDB
+- :octicons-table-16: Model Entitat-Relació
+/////
+///// html | div.subject-card.border-cyan
+[:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../dam-ed/)
 
----
+- :material-language-java: Java
+- :simple-git: Git
+- :simple-github: GitHub
+- :simple-intellijidea: IntelliJ IDEA
+- :simple-junit5: JUnit 5
+- :simple-uml: UML
+/////
+///// html | div.subject-card.border-brown
+[:material-shuffle-variant:{ .lg .middle } __PSP: Programació de Serveis i Processos__](../dam-psp/)
 
-[:octicons-arrow-right-24: Apunts](../dam-psp/)
+- :material-language-java: Java
+- :material-shuffle-variant: Threads
+- :octicons-arrow-switch-16: Sockets
+- :material-lock: Encriptació
+- :octicons-id-badge-16: Certificats digitals
+/////
 ////
 
 ///
 
 
-### :material-web: Desenvolupament d'Aplicacions Web
+/// html | section.course-section
+## :material-web:{ .lg .middle } DAW – Desenvolupament d'Aplicacions Web <span class="tag gm">CFGS</span>
 
-/// html | div.grid.cards
+//// html | div.subject-grid
+///// html | div.subject-card.border-light-green
+[:fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
 
-//// html | div.card.green-card
-:fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__ :construction:{ title="En construcció!" }
+- :simple-mariadb: MariaDB
+- :simple-mongodb: MongoDB
+- :octicons-table-16: Model Entitat-Relació
+/////
+///// html | div.subject-card.border-cyan
+[:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../dam-ed/)
 
----
+- :material-language-java: Java
+- :simple-git: Git
+- :simple-github: GitHub
+- :simple-intellijidea: IntelliJ IDEA
+- :simple-junit5: JUnit 5
+- :simple-uml: UML
+/////
+///// html | div.subject-card.border-teal
+[:fontawesome-solid-people-group:{ .lg .middle } __PI: Projecte Intermodular__](https://fpmislata-daw1-projecte.github.io/projecte-daw1/)
 
-[:octicons-arrow-right-24: Apunts](../bd/)
-////
-
-//// html | div.card.cyan-card
-:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__ :construction:{ title="En construcció!" }
-
----
-
-[:octicons-arrow-right-24: Apunts](../daw-ed/)
-////
-
-//// html | div.card.teal-card
-:fontawesome-solid-people-group:{ .lg .middle } __Projecte interdisciplinar__ :construction:{ title="En construcció!" }
-
----
-
-[:octicons-arrow-right-24: Enunciat](https://fpmislata-daw1-projecte.github.io/projecte-daw1/)
-////
-
-///
-
-
-### :fontawesome-solid-brain: Intel·ligència Artificial i Big Data
-
-/// html | div.grid.cards
-//// html | div.card.purple-card
-:material-robot-happy:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__ :construction:{ title="En construcció!" }
-
----
-
-[:octicons-arrow-right-24: Apunts](../iabd-saa/)
+- :octicons-iterations-16: Scrum
+- :simple-github: GitHub
+/////
 ////
 ///
 
 
-## Cursos de Formació del Professorat
+/// html | section.course-section
+## :fontawesome-solid-brain:{ .lg .middle } IABD – Intel·ligència Artificial i Big Data <span class="tag gs">CE</span>
 
-/// html | div.grid.cards
-//// html | div.card.deeporange-card
-:simple-git:{ .lg .middle } __Introducció a Git i la seua aplicació a l’aula__  :material-alert-decagram:{ title="Novetat!" }
+//// html | div.subject-grid
+///// html | div.subject-card.border-deep-purple
+[:material-robot-happy:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__](../iabd-saa/)
 
----
+- :simple-python: Python
+- :simple-scikitlearn: Scikit-learn
+- :simple-pandas: Pandas
+- :octicons-graph-16: Matplotlib
+/////
+////
+///
 
-[:octicons-arrow-right-24: Materials](../curs-git/)
+
+/// html | section.course-section
+## :material-human-male-board:{ .lg .middle } Cursos de Formació del Professorat
+
+//// html | div.subject-grid
+///// html | div.subject-card.border-deep-orange
+[:simple-git:{ .lg .middle } __Introducció a Git i la seua aplicació a l’aula__](../curs-git/)  :material-alert-decagram:{ title="Novetat!" }
+
+- :simple-git: Git
+- :simple-github: GitHub
+/////
 ////
 ///

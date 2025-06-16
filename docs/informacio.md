@@ -44,8 +44,9 @@ Aquest lloc web està desenvolupat amb les següents eines i llibreries:
 - [PyMdown Extensions][PyMdown Extensions]: Extensions per a Python Markdown.
 - [Pygments][Pygments]: Ressaltat de sintaxi de codi amb :simple-python: Python.
 - [:simple-git: Git][Git]: Sistema de control de versions.
-- [GitHub Pages][GitHub Pages]: Servei de pàgines web estàtiques de :simple-github: GitHub.
-- [GitHub Actions][GitHub Actions]: Automatització de tasques de :simple-github: GitHub.
+- [:octicons-browser-24: GitHub Pages][GitHub Pages]: Servei de pàgines web estàtiques de :simple-github: GitHub.
+- [:octicons-play-24: GitHub Actions][GitHub Actions]: Automatització de tasques de :simple-github: GitHub.
+
 
 [MkDocs]: https://www.mkdocs.org/
 [Material for MkDocs]: https://squidfunk.github.io/mkdocs-material/
