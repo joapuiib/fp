@@ -46,12 +46,17 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
-- :octicons-table-16: Model Entitat-Relació
+- :fontawesome-solid-diagram-project: Model Entitat-Relació
+- :octicons-table-16: Model relacional
+- :material-database-export-outline: SQL
 ////
 //// html | div.subject-card.border-green
 [:material-database-cog:{ .lg .middle } __ASGBD: Administració de Sistemes Gestors de Bases de Dades__](../asix-asgbd/)
 
 - :simple-mariadb: MariaDB
+- :material-database-sync: Oracle Database
+- :simple-docker: Docker
+- :material-aws: Amazon Web Services
 - :fontawesome-solid-user-shield: Gestió d'usuaris
 ////
 //// html | div.subject-card.border-blue
@@ -77,7 +82,9 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
-- :octicons-table-16: Model Entitat-Relació
+- :fontawesome-solid-diagram-project: Model Entitat-Relació
+- :octicons-table-16: Model relacional
+- :material-database-export-outline: SQL
 ////
 //// html | div.subject-card.border-cyan
 [:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../dam-ed/)
@@ -85,6 +92,7 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 - :material-language-java: Java
 - :simple-git: Git
 - :simple-github: GitHub
+- :octicons-play-16: GitHub Actions
 - :simple-intellijidea: IntelliJ IDEA
 - :simple-junit5: JUnit 5
 - :simple-uml: UML
@@ -110,7 +118,9 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
-- :octicons-table-16: Model Entitat-Relació
+- :fontawesome-solid-diagram-project: Model Entitat-Relació
+- :octicons-table-16: Model relacional
+- :material-database-export-outline: SQL
 ////
 //// html | div.subject-card.border-cyan
 [:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../dam-ed/)
@@ -118,6 +128,7 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 - :material-language-java: Java
 - :simple-git: Git
 - :simple-github: GitHub
+- :octicons-play-16: GitHub Actions
 - :simple-intellijidea: IntelliJ IDEA
 - :simple-junit5: JUnit 5
 - :simple-uml: UML
@@ -140,7 +151,9 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 - :simple-python: Python
 - :simple-scikitlearn: Scikit-learn
 - :simple-pandas: Pandas
-- :octicons-graph-16: Matplotlib
+- :material-chart-scatter-plot: Matplotlib
+- :octicons-graph-16: Regressió
+- :material-chart-bar: Classificació
 ////
 ///
 
