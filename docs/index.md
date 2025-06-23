@@ -63,7 +63,7 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 [:material-script-text-outline:{ .lg .middle } __IP: Introducció a la Programació__](../asix-asgbd/)
 
 - :simple-python: Python
-- :material-bash: Bash
+- :simple-gnubash: Bash
 ////
 //// html | div.subject-card.border-teal
 [:fontawesome-solid-people-group:{ .lg .middle } __PI: Projecte Intermodular__](https://fpmislata-daw1-projecte.github.io/projecte-daw1/)
