@@ -42,7 +42,7 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
+[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
@@ -51,7 +51,7 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 - :material-database-export-outline: SQL
 ////
 //// html | div.subject-card.border-green
-[:material-database-cog:{ .lg .middle } __ASGBD: Administració de Sistemes Gestors de Bases de Dades__](../asix-asgbd/)
+[:material-database-cog-outline:{ .lg .middle } __ASGBD: Administració de Sistemes Gestors de Bases de Dades__](../asix-asgbd/)
 
 - :simple-mariadb: MariaDB
 - :material-database-sync: Oracle Database
@@ -60,7 +60,7 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 - :fontawesome-solid-user-shield: Gestió d'usuaris
 ////
 //// html | div.subject-card.border-blue
-[:material-script-text:{ .lg .middle } __IP: Introducció a la Programació__](../asix-asgbd/)
+[:material-script-text-outline:{ .lg .middle } __IP: Introducció a la Programació__](../asix-asgbd/)
 
 - :simple-python: Python
 - :material-bash: Bash
@@ -69,16 +69,17 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 [:fontawesome-solid-people-group:{ .lg .middle } __PI: Projecte Intermodular__](https://fpmislata-daw1-projecte.github.io/projecte-daw1/)
 
 - :octicons-iterations-16: Scrum
+- :simple-git: Git
 - :simple-github: GitHub
 ////
 ///
 
 
-## :fontawesome-solid-mobile-screen-button:{ .lg .middle } DAM – Desenvolupament d'Aplicacions Multiplataforma <span class="tag gm">CFGS</span>
+## :octicons-devices-24:{ .lg .middle } DAM – Desenvolupament d'Aplicacions Multiplataforma <span class="tag gm">CFGS</span>
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
+[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
@@ -114,7 +115,7 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:fontawesome-solid-database:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
+[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
@@ -146,7 +147,7 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-deep-purple
-[:material-robot-happy:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__](../iabd-saa/)
+[:material-robot-happy-outline:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__](../iabd-saa/)
 
 - :simple-python: Python
 - :simple-scikitlearn: Scikit-learn

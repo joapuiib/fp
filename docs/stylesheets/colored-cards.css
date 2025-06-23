@@ -1,3 +1,12 @@
+[data-md-color-scheme=default] {
+  --tag-bg: #dcdde1;
+  --tag-fg: #2f3640;
+}
+[data-md-color-scheme=slate] {
+  --tag-bg: hsla(var(--md-hue),15%,25%,1);
+  --tag-fg: #f0f0f0; 
+}
+
 .subject-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
@@ -109,8 +118,8 @@
     margin: 0 !important;
 }
 .subject-card ul li, .tag {
-  background: #dcdde1;
-  color: #2f3640;
+  background: var(--tag-bg);
+  color: var(--tag-fg);
   font-size: 0.7rem;
   padding: 0.25rem 0.4rem;
   border-radius: 4px;
