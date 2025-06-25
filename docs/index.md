@@ -18,9 +18,6 @@ hide:
 *[DAW]: Desenvolupament d'Aplicacions Web
 *[IABD]: Intel·ligència Artificial i Big Data
 
-Benvinguts! En aquest lloc web trobareu els apunts i recursos de Formació Professional
-que he anat elaborant a mesura que he anat impartint els diferents mòduls professionals.
-
 ## :material-server:{ .lg .middle } SMX – Sistemes Microinformàtics i Xarxes
 <span class="tag gm">CFGM</span>
 
@@ -75,7 +72,8 @@ que he anat elaborant a mesura que he anat impartint els diferents mòduls profe
 ///
 
 
-## :octicons-devices-24:{ .lg .middle } DAM – Desenvolupament d'Aplicacions Multiplataforma <span class="tag gm">CFGS</span>
+## :octicons-devices-24:{ .lg .middle } DAM – Desenvolupament d'Aplicacions Multiplataforma
+<span class="tag gm">CFGS</span>
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
