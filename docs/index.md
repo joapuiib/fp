@@ -18,7 +18,7 @@ hide:
 *[DAW]: Desenvolupament d'Aplicacions Web
 *[IABD]: Intel·ligència Artificial i Big Data
 
-## :material-server-outline:{ .lg .middle } SMX – Sistemes Microinformàtics i Xarxes
+## :material-server:{ .lg .middle } SMX – Sistemes Microinformàtics i Xarxes
 <span class="tag gm">CFGM</span>
 
 /// html | div.subject-grid
@@ -34,21 +34,21 @@ hide:
 ///
 
 
-## :material-server-network-outline:{ .lg .middle } ASIX – Administració de Sistemes Informàtics en Xarxa
+## :material-server-network:{ .lg .middle } ASIX – Administració de Sistemes Informàtics en Xarxa
 <span class="tag gm">CFGS</span>
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../bd/)
+[:material-database:{ .lg .middle } __BD: Bases de dades__](../bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
 - :fontawesome-solid-diagram-project: Model Entitat-Relació
 - :octicons-table-16: Model relacional
-- :material-database-export-outline: SQL
+- :material-database-export: SQL
 ////
 //// html | div.subject-card.border-green
-[:material-database-cog-outline:{ .lg .middle } __ASGBD: Administració de Sistemes Gestors de Bases de Dades__](../asix-asgbd/)
+[:material-database-cog:{ .lg .middle } __ASGBD: Administració de Sistemes Gestors de Bases de Dades__](../asix-asgbd/)
 
 - :simple-mariadb: MariaDB
 - :material-database-sync: Oracle Database
@@ -57,7 +57,7 @@ hide:
 - :fontawesome-solid-user-shield: Gestió d'usuaris
 ////
 //// html | div.subject-card.border-blue
-[:material-script-text-outline:{ .lg .middle } __IP: Introducció a la Programació__](../asix-ip/)
+[:material-script-text:{ .lg .middle } __IP: Introducció a la Programació__](../asix-ip/)
 
 - :simple-python: Python
 - :simple-gnubash: Bash
@@ -77,13 +77,13 @@ hide:
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../bd/)
+[:material-database:{ .lg .middle } __BD: Bases de dades__](../bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
 - :fontawesome-solid-diagram-project: Model Entitat-Relació
 - :octicons-table-16: Model relacional
-- :material-database-export-outline: SQL
+- :material-database-export: SQL
 ////
 //// html | div.subject-card.border-cyan
 [:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../daw-ed/)
@@ -113,13 +113,13 @@ hide:
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../bd/)
+[:material-database:{ .lg .middle } __BD: Bases de dades__](../bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
 - :fontawesome-solid-diagram-project: Model Entitat-Relació
 - :octicons-table-16: Model relacional
-- :material-database-export-outline: SQL
+- :material-database-export: SQL
 ////
 //// html | div.subject-card.border-cyan
 [:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../daw-ed/)
@@ -140,12 +140,12 @@ hide:
 ////
 ///
 
-## :fontawesome-solid-brain:{ .lg .middle } IABD – Intel·ligència Artificial i Big Data
+## :artificial-intelligence:{ .lg .middle } IABD – Intel·ligència Artificial i Big Data
 <span class="tag gs">CE</span>
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-deep-purple
-[:material-robot-happy-outline:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__](../iabd-saa/)
+[:material-robot-happy:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__](../iabd-saa/)
 
 - :simple-python: Python
 - :simple-scikitlearn: Scikit-learn
