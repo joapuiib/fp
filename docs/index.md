@@ -39,7 +39,7 @@ hide:
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
+[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
@@ -57,13 +57,13 @@ hide:
 - :fontawesome-solid-user-shield: Gestió d'usuaris
 ////
 //// html | div.subject-card.border-blue
-[:material-script-text-outline:{ .lg .middle } __IP: Introducció a la Programació__](../asix-asgbd/)
+[:material-script-text-outline:{ .lg .middle } __IP: Introducció a la Programació__](../asix-ip/)
 
 - :simple-python: Python
 - :simple-gnubash: Bash
 ////
 //// html | div.subject-card.border-teal
-[:fontawesome-solid-people-group:{ .lg .middle } __PI: Projecte Intermodular__](https://fpmislata-daw1-projecte.github.io/projecte-daw1/)
+[:fontawesome-solid-people-group:{ .lg .middle } __PI: Projecte Intermodular__](../asix-pi/)
 
 - :octicons-iterations-16: Scrum
 - :simple-git: Git
@@ -77,7 +77,7 @@ hide:
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
+[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
@@ -86,7 +86,7 @@ hide:
 - :material-database-export-outline: SQL
 ////
 //// html | div.subject-card.border-cyan
-[:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../dam-ed/)
+[:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../daw-ed/)
 
 - :material-language-java: Java
 - :simple-git: Git
@@ -113,7 +113,7 @@ hide:
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../dam-bd/)
+[:material-database-outline:{ .lg .middle } __BD: Bases de dades__](../bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
@@ -122,7 +122,7 @@ hide:
 - :material-database-export-outline: SQL
 ////
 //// html | div.subject-card.border-cyan
-[:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../dam-ed/)
+[:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../daw-ed/)
 
 - :material-language-java: Java
 - :simple-git: Git
