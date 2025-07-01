@@ -18,7 +18,7 @@ hide:
 *[DAW]: Desenvolupament d'Aplicacions Web
 *[IABD]: Intel·ligència Artificial i Big Data
 
-## :material-server:{ .lg .middle } SMX – Sistemes Microinformàtics i Xarxes
+## :material-server-outline:{ .lg .middle } SMX – Sistemes Microinformàtics i Xarxes
 <span class="tag gm">CFGM</span>
 
 /// html | div.subject-grid
@@ -34,7 +34,7 @@ hide:
 ///
 
 
-## :material-server-network:{ .lg .middle } ASIX – Administració de Sistemes Informàtics en Xarxa
+## :material-server-network-outline:{ .lg .middle } ASIX – Administració de Sistemes Informàtics en Xarxa
 <span class="tag gm">CFGS</span>
 
 /// html | div.subject-grid
