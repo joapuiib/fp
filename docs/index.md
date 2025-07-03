@@ -18,12 +18,11 @@ hide:
 *[DAW]: Desenvolupament d'Aplicacions Web
 *[IABD]: Intel·ligència Artificial i Big Data
 
-## :material-server:{ .lg .middle } SMX – Sistemes Microinformàtics i Xarxes
-<span class="tag gm">CFGM</span>
+## :material-server-outline:{ .lg .middle } SMX – Sistemes Microinformàtics i Xarxes
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-yellow
-[:fontawesome-solid-shield-halved:{ .lg .middle } __SI: Seguretat informàtica__](../smx-si/)
+[:fontawesome-solid-shield-halved:{ .lg .middle } SI: Seguretat informàtica](../smx-si/)
 
 - :material-office-building: Seguretat Física
 - :material-server-network: Seguretat Lògica
@@ -34,12 +33,11 @@ hide:
 ///
 
 
-## :material-server-network:{ .lg .middle } ASIX – Administració de Sistemes Informàtics en Xarxa
-<span class="tag gm">CFGS</span>
+## :material-server-network-outline:{ .lg .middle } ASIX – Administració de Sistemes Informàtics en Xarxa
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:material-database:{ .lg .middle } __BD: Bases de dades__](../bd/)
+[:material-database-outline:{ .lg .middle } BD: Bases de dades](../bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
@@ -48,7 +46,7 @@ hide:
 - :material-database-export: SQL
 ////
 //// html | div.subject-card.border-green
-[:material-database-cog:{ .lg .middle } __ASGBD: Administració de Sistemes Gestors de Bases de Dades__](../asix-asgbd/)
+[:material-database-cog-outline:{ .lg .middle } ASGBD: Administració de Sistemes Gestors de Bases de Dades](../asix-asgbd/)
 
 - :simple-mariadb: MariaDB
 - :material-database-sync: Oracle Database
@@ -57,13 +55,13 @@ hide:
 - :fontawesome-solid-user-shield: Gestió d'usuaris
 ////
 //// html | div.subject-card.border-blue
-[:material-script-text:{ .lg .middle } __IP: Introducció a la Programació__](../asix-ip/)
+[:material-script-text-outline:{ .lg .middle } IP: Introducció a la Programació](../asix-ip/)
 
 - :simple-python: Python
 - :simple-gnubash: Bash
 ////
 //// html | div.subject-card.border-teal
-[:fontawesome-solid-people-group:{ .lg .middle } __PI: Projecte Intermodular__](../asix-pi/)
+[:fontawesome-solid-people-group:{ .lg .middle } PI: Projecte Intermodular](../asix-pi/)
 
 - :octicons-iterations-16: Scrum
 - :simple-git: Git
@@ -72,12 +70,11 @@ hide:
 ///
 
 
-## :octicons-devices-24:{ .lg .middle } DAM – Desenvolupament d'Aplicacions Multiplataforma
-<span class="tag gm">CFGS</span>
+## :octicons-devices-16:{ .lg .middle } DAM – Desenvolupament d'Aplicacions Multiplataforma
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:material-database:{ .lg .middle } __BD: Bases de dades__](../bd/)
+[:material-database-outline:{ .lg .middle } BD: Bases de dades](../bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
@@ -86,7 +83,7 @@ hide:
 - :material-database-export: SQL
 ////
 //// html | div.subject-card.border-cyan
-[:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../daw-ed/)
+[:fontawesome-solid-laptop-code:{ .lg .middle } ED: Entorns de Desenvolupament](../daw-ed/)
 
 - :material-language-java: Java
 - :simple-git: Git
@@ -97,7 +94,7 @@ hide:
 - :simple-uml: UML
 ////
 //// html | div.subject-card.border-brown
-[:material-shuffle-variant:{ .lg .middle } __PSP: Programació de Serveis i Processos__](../dam-psp/)
+[:material-shuffle-variant:{ .lg .middle } PSP: Programació de Serveis i Processos](../dam-psp/)
 
 - :material-language-java: Java
 - :material-shuffle-variant: Threads
@@ -109,11 +106,10 @@ hide:
 
 
 ## :material-web:{ .lg .middle } DAW – Desenvolupament d'Aplicacions Web
-<span class="tag gm">CFGS</span>
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-light-green
-[:material-database:{ .lg .middle } __BD: Bases de dades__](../bd/)
+[:material-database-outline:{ .lg .middle } BD: Bases de dades](../bd/)
 
 - :simple-mariadb: MariaDB
 - :simple-mongodb: MongoDB
@@ -122,7 +118,7 @@ hide:
 - :material-database-export: SQL
 ////
 //// html | div.subject-card.border-cyan
-[:fontawesome-solid-laptop-code:{ .lg .middle } __ED: Entorns de Desenvolupament__](../daw-ed/)
+[:fontawesome-solid-laptop-code:{ .lg .middle } ED: Entorns de Desenvolupament](../daw-ed/)
 
 - :material-language-java: Java
 - :simple-git: Git
@@ -133,19 +129,19 @@ hide:
 - :simple-uml: UML
 ////
 //// html | div.subject-card.border-teal
-[:fontawesome-solid-people-group:{ .lg .middle } __PI: Projecte Intermodular__](https://fpmislata-daw1-projecte.github.io/projecte-daw1/)
+[:fontawesome-solid-people-group:{ .lg .middle } PI: Projecte Intermodular](https://fpmislata-daw1-projecte.github.io/projecte-daw1/)
 
 - :octicons-iterations-16: Scrum
 - :simple-github: GitHub
 ////
 ///
 
-## :artificial-intelligence:{ .lg .middle } IABD – Intel·ligència Artificial i Big Data
-<span class="tag gs">CE</span>
+
+## :material-brain:{ .lg .middle } IABD – Intel·ligència Artificial i Big Data
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-deep-purple
-[:material-robot-happy:{ .lg .middle } __SAA: Sistemes d'Aprenentatge Automàtic__](../iabd-saa/)
+[:material-robot-happy-outline:{ .lg .middle } SAA: Sistemes d'Aprenentatge Automàtic](../iabd-saa/)
 
 - :simple-python: Python
 - :simple-scikitlearn: Scikit-learn
@@ -161,7 +157,7 @@ hide:
 
 /// html | div.subject-grid
 //// html | div.subject-card.border-deep-orange
-[:simple-git:{ .lg .middle } __Introducció a Git i la seua aplicació a l’aula__](../curs-git/)  :material-alert-decagram:{ title="Novetat!" }
+[:simple-git:{ .lg .middle } Introducció a Git i la seua aplicació a l’aula](../curs-git/)  :material-alert-decagram:{ title="Novetat!" }
 
 - :simple-git: Git
 - :simple-github: GitHub
