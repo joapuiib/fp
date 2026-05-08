@@ -1,22 +1,32 @@
 ---
-template: document.html
 title: FP – Apunts de Formació Professional
-cover:
-    title: FP – Apunts de Formació Professional
-    logo: false
+landing: true
 hide:
     - navigation
+    - toc
 ---
 *[CFGM]: Cicle Formatiu de Grau Mitjà
 *[CFGS]: Cicle Formatiu de Grau Superior
 *[CE]: Curs d'Especialització
-
-
 *[SMX]: Sistemes Microinformàtics i Xarxes
 *[ASIX]: Administració de Sistemes Informàtics en Xarxa
 *[DAM]: Desenvolupament d'Aplicacions Multiplataforma
 *[DAW]: Desenvolupament d'Aplicacions Web
 *[IABD]: Intel·ligència Artificial i Big Data
+
+
+/// html | div.landing-hero
+
+FORMACIÓ PROFESSIONAL
+{ .eyebrow }
+
+# Apunts de Formació Professional per [@joapuiib](https://github.com/joapuiib)
+
+Recull d'apunts i recursos per a mòduls professionals de cicles formatius i formació del professorat.
+{ .subtitle }
+///
+
+
 
 <div class="subject-filter">
 <button type="button" data-course="all" class="is-active">Tots</button>

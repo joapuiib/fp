@@ -40,7 +40,7 @@ Aquest lloc web està desenvolupat amb les següents eines i llibreries:
 
 - __[:octicons-book-16: ProperDocs](https://www.properdocs.org/){:target="_blank"}__: Generador de llocs web estàtics amb Markdown basat en Python.
 - __[:simple-materialformkdocs: MaterialX](https://jaywhj.github.io/mkdocs-materialx/){:target="_blank"}__: Tema per a ProperDocs.
-- __[:simple-materialformkdocs: mkdocs-material-joapuiib](https://github.com/joapuiib/mkdocs-material-joapuiib){:target="_blank"}__: Extensió personalitzada del tema MaterialX.
+- __[:material-book-open-variant: mkdocs-material-joapuiib](https://joapuiib.github.io/mkdocs-material-joapuiib/){:target="_blank"}__: Extensió personalitzada del tema MaterialX.
 - __[:material-language-markdown-outline: Python Markdown](https://python-markdown.github.io/){:target="_blank"}__: Processador de Markdown per a Python.
 - __[:material-layers-plus: PyMdown Extensions](https://facelessuser.github.io/pymdown-extensions/){:target="_blank"}__: Extensions per a Python Markdown.
 - __[:octicons-code-16: Pygments](https://pygments.org/){:target="_blank"}__: Ressaltat de sintaxi del codi per a Python.
