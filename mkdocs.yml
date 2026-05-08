@@ -19,15 +19,20 @@ extra:
 theme:
   name: material-joapuiib
   icon:
-    logo: octicons/book-16
+    logo: material/book-open-page-variant
 
 extra_css:
   - stylesheets/colored-cards.css
 
+extra_javascript:
+  - javascripts/landing-filter.js
+
 plugins:
-  - material/search
+  - materialx/search
+  - materialx/social:
+      enabled: !ENV [CI, false]
   - material-joapuiib/enviorment
-  - awesome-pages # Navegació
+  - awesome-nav
   - macros
   - i18n:
       languages:
@@ -51,6 +56,7 @@ plugins:
             notice: Fixa't
             prep: Preparació
             recommend: Recomanació
+            picture: Imatge
   - git-revision-date-localized
   - git-committers:
       enabled: !ENV [CI, false]
@@ -74,7 +80,7 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.emoji:
-      emoji_index: !!python/name:material_joapuiib.extensions.emoji.twemoji
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.arithmatex:
       generic: true

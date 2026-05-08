@@ -1,2 +1,3 @@
-mkdocs-material-joapuiib~=1.7
-mkdocs-git-committers-plugin-2~=2.4
+mkdocs-material-joapuiib~=3.0
+mkdocs-materialx[imaging]
+mkdocs-git-committers-plugin-2~=2.5
