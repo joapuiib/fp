@@ -117,7 +117,7 @@ Fonaments de programació amb Python i scripting amb Bash.
 <span class="badge course">ASIX</span>
 </div>
 
-### [:fontawesome-solid-people-group:{ .lg .middle } PI: Projecte Intermodular](../asix-pi/)
+### [:material-server-outline:{ .lg .middle } ASIX2-PI: Projecte Intermodular de 2n d'ASIX](../asix-pi/)
 
 Projecte integrador en equip amb metodologia àgil i control de versions.
 
@@ -169,7 +169,7 @@ Concurrència, comunicació en xarxa i seguretat en aplicacions Java.
 <span class="badge course">DAW</span>
 </div>
 
-### [:fontawesome-solid-people-group:{ .lg .middle } PI: Projecte Intermodular](https://fpmislata-daw1-projecte.github.io/projecte-daw1/)
+### [:material-web:{ .lg .middle } DAW1-PI: Projecte Intermodular de 1r de DAW](https://fpmislata-daw1-projecte.github.io/daw1-pi/)
 
 Projecte web integrador amb Scrum i flux Git/GitHub.
 
