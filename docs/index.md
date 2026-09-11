@@ -90,10 +90,9 @@ Disseny, modelat i consultes amb bases de dades relacionals i documentals.
 
 Administració de servidors de bases de dades, usuaris, còpies i desplegament.
 
-- :simple-mariadb: MariaDB
+- :simple-postgresql: PostgreSQL
 - :material-database-sync: Oracle Database
 - :simple-docker: Docker
-- :material-aws: Amazon Web Services
 - :fontawesome-solid-user-shield: Gestió d'usuaris
 
 </div>
@@ -105,10 +104,9 @@ Administració de servidors de bases de dades, usuaris, còpies i desplegament.
 
 ### [:material-script-text-outline:{ .lg .middle } IP: Introducció a la Programació](../asix-ip/)
 
-Fonaments de programació amb Python i scripting amb Bash.
+Fonaments de programació amb Python.
 
 - :simple-python: Python
-- :simple-gnubash: Bash
 
 </div>
 
@@ -117,10 +115,15 @@ Fonaments de programació amb Python i scripting amb Bash.
 <span class="badge course">ASIX</span>
 </div>
 
-### [:fontawesome-solid-people-group:{ .lg .middle } PI: Projecte Intermodular](../asix-pi/)
+### [:material-server-outline:{ .lg .middle } ASIX2-PI: Projecte Intermodular de 2n d'ASIX](../asix-pi/)
 
-Projecte integrador en equip amb metodologia àgil i control de versions.
+Desplegament d'infraestructura d'empresa: servidors, xarxa i núvol.
 
+- :material-office-building: Implementació d'empresa
+- :material-aws: Amazon Web Services
+- :material-lan: DNS / DHCP
+- :material-scale-balance: Balanceig de càrrega
+- :octicons-id-badge-16: Certificats digitals
 - :octicons-iterations-16: Scrum
 - :simple-git: Git
 - :simple-github: GitHub
@@ -169,11 +172,20 @@ Concurrència, comunicació en xarxa i seguretat en aplicacions Java.
 <span class="badge course">DAW</span>
 </div>
 
-### [:fontawesome-solid-people-group:{ .lg .middle } PI: Projecte Intermodular](https://fpmislata-daw1-projecte.github.io/projecte-daw1/)
+### [:material-web:{ .lg .middle } DAW1-PI: Projecte Intermodular de 1r de DAW](https://fpmislata-daw1-projecte.github.io/daw1-pi/)
 
-Projecte web integrador amb Scrum i flux Git/GitHub.
+Disseny i implementació d'una aplicació web completa des de zero.
 
+- :material-language-java: Java
+- :simple-spring: Spring
+- :simple-junit5: JUnit 5
+- :simple-typescript: TypeScript
+- :simple-mariadb: MariaDB
+- :simple-mongodb: MongoDB
+- :simple-docker: Docker
+- :material-aws: Amazon Web Services
 - :octicons-iterations-16: Scrum
+- :simple-git: Git
 - :simple-github: GitHub
 
 </div>

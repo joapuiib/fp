@@ -1,11 +1,11 @@
-name: deploy # Nom de l'automatització
-on: # Events que disparen l'automatització
+name: deploy
+on:
   push:
     branches:
-      - main # Quan es fa un push a la branca main
+      - main
   workflow_dispatch:
 
-permissions: # Permisos que es concedeixen a l'automatització
+permissions:
   contents: read
   pages: write
   id-token: write
@@ -14,33 +14,33 @@ concurrency:
   group: github-pages
   cancel-in-progress: true
 
-jobs: # Llista de tasques a executar
-  build: # Nom de la tasca
-    runs-on: ubuntu-latest # Sistema operatiu on s'executarà la tasca
-    steps: # Passos a executar
-      - uses: actions/checkout@v4 # Acció per clonar i còpiar el repositori a l'entorn d'execució
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
-      - uses: actions/setup-python@v5 # Acció per configurar Python
+      - uses: actions/setup-python@v6
         with:
           python-version: 3.x
           cache: 'pip'
-      - name: Install dependencies # Acció per instal·lar les dependències
+      - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Build # Acció per compilar la documentació
-        run: mkdocs build --clean
-      - name: Upload static files as artifact # Acció per pujar els fitxers estàtics com a artefacte
-        uses: actions/upload-pages-artifact@v3
+      - name: Build
+        run: properdocs build --clean
+      - name: Upload static files as artifact
+        uses: actions/upload-pages-artifact@v4
         with:
-          path: ./site/ # Ruta dels fitxers estàtics generats per MkDocs
+          path: ./site/
 
-  deploy: # Nom de la tasca
+  deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest # Sistema operatiu on s'executarà la tasca
-    needs: build # Aquesta tasca depèn de la tasca "build"
-    steps: # Passos a executar
-      - name: Deploy to GitHub Pages # Acció per desplegar a GitHub Pages
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

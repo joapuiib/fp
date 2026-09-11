@@ -20,6 +20,7 @@ theme:
   name: material-joapuiib
   icon:
     logo: material/book-open-page-variant
+  favicon: material/book-open-page-variant
 
 extra_css:
   - stylesheets/colored-cards.css
