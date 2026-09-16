@@ -172,7 +172,7 @@ Concurrència, comunicació en xarxa i seguretat en aplicacions Java.
 <span class="badge course">DAW</span>
 </div>
 
-### [:material-web:{ .lg .middle } DAW1-PI: Projecte Intermodular de 1r de DAW](https://fpmislata-daw1-projecte.github.io/daw1-pi/)
+### [:material-web:{ .lg .middle } DAW1-PI: Projecte Intermodular de 1r de DAW](https://fpmislata-daw1-projecte.github.io/daw-pi/)
 
 Disseny i implementació d'una aplicació web completa des de zero.
 
