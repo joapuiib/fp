@@ -1,6 +1,5 @@
 site_name: "FP – Apunts de Formació Professional"
 site_author: "Joan Puigcerver Ibáñez"
-site_email: "j.puigcerveribanez@edu.gva.es"
 site_url: https://joapuiib.github.io/fp/
 dev_addr: 127.0.0.1:4567
 
@@ -18,6 +17,7 @@ extra:
 
 theme:
   name: material-joapuiib
+  email: "j.puigcerveribanez@edu.gva.es"
   icon:
     logo: material/book-open-page-variant
   favicon: material/book-open-page-variant
@@ -30,7 +30,7 @@ extra_javascript:
 
 plugins:
   - materialx/search
-  - materialx/social:
+  - material-joapuiib/social:
       enabled: !ENV [CI, false]
   - material-joapuiib/enviorment
   - awesome-nav
